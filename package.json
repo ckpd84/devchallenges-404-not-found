@@ -1,0 +1,26 @@
+{
+  "name": "404-not-found-master",
+  "version": "1.0.0",
+  "description": "devChallenge for Responsive Web",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.10",
+    "tailwindcss": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckpd84/devchallenges-404-not-found.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckpd84/devchallenges-404-not-found/issues"
+  },
+  "homepage": "https://github.com/ckpd84/devchallenges-404-not-found#readme"
+}
